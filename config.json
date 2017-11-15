@@ -8,14 +8,14 @@
     "text": "Anna"
   },
   "text": {
-    "more": "Здесь вы можете увидеть график друзей вк. ",
-    "intro": "График друзей вк.",
-    "title": "Friends"
+    "more": "",
+    "intro": "Красный - однокурсники, добавленные в друзья в 2016-2017 гг. (сейчас 2 курс)\nСиний - однокурсники, добавленные в друзья в 2017 г.  (сейчас 1 курс)\nЧерный - одноклассники. \nОранжевый - знакомые, занимающиеся татуированием. \nСерый - друзья, добавленные в разное время. \nЗеленый - друзья, являющиеся админами  одного и того же паблика в вк. \nРозовый - политологи НИУ ВШЭ.",
+    "title": "График друзей в вк"
   },
   "legend": {
-    "edgeLabel": "1",
-    "colorLabel": "Blue",
-    "nodeLabel": "1"
+    "edgeLabel": "Ребро",
+    "colorLabel": "Цвет",
+    "nodeLabel": "Узбы"
   },
   "features": {
     "search": true,
@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
